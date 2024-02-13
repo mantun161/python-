@@ -1,0 +1,8 @@
+name="Hello World"
+age =50
+price=25.65
+print(name)
+print(age)
+print(type(name)) //this is show you which type variable store
+print(type(age))   //this is show you which type variable store
+print(type(price))  //this is show you which type variable store
